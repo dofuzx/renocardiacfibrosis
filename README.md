@@ -84,6 +84,4 @@ Code: MIT. Processed data tables inherit the terms of their source repositories
 
 ## Citation
 
-If you use this code or the processed tables, please cite the associated manuscript
-(see the DOI registered with Zenodo for this repository:
-https://doi.org/10.5281/zenodo.XXXXXXX — replace with the issued DOI after archiving).
+[[DOI](https://zenodo.org/badge/1437080263.svg)](https://doi.org/10.5281/zenodo.23732232)
